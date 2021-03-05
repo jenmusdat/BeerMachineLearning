@@ -131,3 +131,4 @@ dmypy.json
 # Ignore the reviews.csv is too big
 reviews.csv
 reviews_beer_brewery.csv
+beer.db
