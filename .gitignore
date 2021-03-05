@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore the reviews.csv is too big
+reviews.csv
+reviews_beer_brewery.csv
