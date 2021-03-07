@@ -2,7 +2,7 @@
 
  - The project aims to look at beer reviews to determine a number of items based on the text reviews. Pulled from https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews we will develop an analysis based on different types of machine learning. TIn creating this model we aim to use high accuracy to propose the best types of beers in the most approriate locations.
  
-# Process:
+## Process:
 
  - We will use the text reviews to conduct a Word2Vec model analysis
  - We will then create a k-means cluster analysis based on the Word2Vec results that will cluster like beers and review results together.
@@ -10,22 +10,22 @@
  - The cluster will then  be tied to score results
  - From there we will map the results and determine the next best steps
  
- # Goal
+ ## Goal
  
  The goal of this project is to be able to predicts review ratings based on text reviews and provide feedback with regard brewery expansion.
  
  ## Files
  
- # Results
+ ## Results
  
- # Execution
+ ## Execution
  
- # Conclusion
+ ## Conclusion
  
- # Sources
+ ## Sources
  
  ## Authors
 
-Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny] (https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
+Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
  
