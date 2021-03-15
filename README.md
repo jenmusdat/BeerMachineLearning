@@ -27,7 +27,11 @@
  ## Authors
  
  
- [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb) - This is the main program for running the automated ETL pipeline.
+ [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb) - This was the original notebook used to explore the data
+ 
+ [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) - This was the original notebook used to create the word2vec model
+ 
+ 
  
  
 
