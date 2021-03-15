@@ -27,13 +27,15 @@
  ## Authors
  
  
-[`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data
+[`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data.
  
-[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`training_smell.ipynb`](Analysis/training_smell.ipynb),[`Josh2vec.ipynb`](Analysis/Josh2vec.ipynb),[`Jenny_Feel_Model_to_Pandas.ipynb`](Analysis/Jenny_Feel_Model_to_Pandas.ipynb) - These are the notebooks where we trained our word2vec models
+[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`training_smell.ipynb`](Analysis/training_smell.ipynb),[`Josh2vec.ipynb`](Analysis/Josh2vec.ipynb),[`Jenny_Feel_Model_to_Pandas.ipynb`](Analysis/Jenny_Feel_Model_to_Pandas.ipynb) - These are the notebooks where we trained our word2vec models.
  
-[`Jenny_Beer_Regression_FeelTest.ipynb`](Analysis/Jenny_Beer_Regression_FeelTest.ipynb),[`Jenny_Beer_Regression_OverallTest.ipynb`](Analysis/Jenny_Beer_Regression_OverallTest.ipynb),[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`scoretastelin.ipynb`](Analysis/scoretastelin.ipynb) - These are the notebooks where we calculated linear regression
+[`Jenny_Beer_Regression_FeelTest.ipynb`](Analysis/Jenny_Beer_Regression_FeelTest.ipynb),[`Jenny_Beer_Regression_OverallTest.ipynb`](Analysis/Jenny_Beer_Regression_OverallTest.ipynb),[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`scoretastelin.ipynb`](Analysis/scoretastelin.ipynb) - These are the notebooks where we calculated linear regression.
+
+[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) This is the notebook used to create our clusters.
  
- 
+[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`newExploration.ipynb`](Analysis/newExploration.ipynb) - We used these notbooks to understand our clusters.
 
 Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
