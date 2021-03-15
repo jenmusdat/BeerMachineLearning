@@ -31,7 +31,7 @@
  
 [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`training_smell.ipynb`](Analysis/training_smell.ipynb),[`Josh2vec.ipynb`](Analysis/Josh2vec.ipynb),[`Jenny_Feel_Model_to_Pandas.ipynb`](Analysis/Jenny_Feel_Model_to_Pandas.ipynb) - These are the notebooks where we trained our word2vec models
  
-[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) - This was the original notebook used to create the word2vec model
+[`Jenny_Beer_Regression_FeelTest.ipynb`](Analysis/Jenny_Beer_Regression_FeelTest.ipynb),[`Jenny_Beer_Regression_OverallTest.ipynb`](Analysis/Jenny_Beer_Regression_OverallTest.ipynb),[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`scoretastelin.ipynb`](Analysis/scoretastelin.ipynb) - These are the notebooks where we calculated linear regression
  
  
 
