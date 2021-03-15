@@ -27,7 +27,7 @@
  ## Authors
  
  
- [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - This was the original notebook used to explore the data
+ [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - This was the original notebook used to explore the data
  
  [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) - This was the original notebook used to create the word2vec model
  
