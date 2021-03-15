@@ -27,7 +27,7 @@
  ## Authors
  
  
- [Jay-Beer-Data-Explore.ipynb](Jay-Beer-Data-Explore.ipynb) - This is the main program for running the automated ETL pipeline.
+ [Analysis/Jay-Beer-Data-Explore.ipynb](Jay-Beer-Data-Explore.ipynb) - This is the main program for running the automated ETL pipeline.
  
  
 
