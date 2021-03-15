@@ -33,9 +33,13 @@
  
 [`Jenny_Beer_Regression_FeelTest.ipynb`](Analysis/Jenny_Beer_Regression_FeelTest.ipynb),[`Jenny_Beer_Regression_OverallTest.ipynb`](Analysis/Jenny_Beer_Regression_OverallTest.ipynb),[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`scoretastelin.ipynb`](Analysis/scoretastelin.ipynb) - These are the notebooks where we calculated linear regression.
 
-[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) This is the notebook used to create our clusters.
+[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) - This is the notebook used to create our clusters.
  
 [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`newExploration.ipynb`](Analysis/newExploration.ipynb) - We used these notbooks to understand our clusters.
+
+[`WordClouds.ipynb`](Analysis/WordClouds.ipynb) - This notebook is where the Word Clouds were made.
+
+[`Score_pos_neg.ipynb`](Analysis/Score_pos_neg.ipynb) - This notebook ran linear regression with a good or bad rating decided by picking a score value as a cutoff for each.
 
 Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
