@@ -29,3 +29,5 @@
 Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
  
+
+[Analysis/Jay-Beer-Data-Explore.ipynb](Jay-Beer-Data-Explore.ipynb) - This is the main program for running the automated ETL pipeline.
