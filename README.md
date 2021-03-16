@@ -23,7 +23,7 @@
 
 [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb) - This is the notebook used to create our clusters.
  
-[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`newExploration.ipynb`](Analysis/newExploration.ipynb) - We used these notbooks to understand our clusters.
+[`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`newExploration.ipynb`](Analysis/newExploration.ipynb) - We used these notebooks to understand our clusters.
 
 [`WordClouds.ipynb`](Analysis/WordClouds.ipynb) - This notebook is where the Word Clouds were made.
 
