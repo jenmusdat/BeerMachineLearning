@@ -1,6 +1,6 @@
 # Project3_BeerQuality
 
- - The project aims to look at beer reviews to determine a number of items based on the text reviews. Pulled from https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews we will develop an analysis based on different types of machine learning. TIn creating this model we aim to use high accuracy to propose the best types of beers in the most approriate locations.
+ - The project aims to look at beer reviews to determine a number of items based on the text reviews. Pulled from https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews we will develop an analysis based on different types of machine learning. In creating this model we aim to use high accuracy to propose the best types of beers in the most approriate locations.
  
 ## Process:
 
