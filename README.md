@@ -15,19 +15,7 @@
  The goal of this project is to be able to predicts review ratings based on text reviews and provide feedback with regard brewery expansion.
  
  ## Files
- 
- ## Results
- 
- ## Execution
- 
- ## Conclusion
- 
- ## Sources
- 
- ## Authors
- 
- 
-[`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data, and perform the bulk of the ETL process.
+ [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data, and perform the bulk of the ETL process.
  
 [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`training_smell.ipynb`](Analysis/training_smell.ipynb),[`Josh2vec.ipynb`](Analysis/Josh2vec.ipynb),[`Jenny_Feel_Model_to_Pandas.ipynb`](Analysis/Jenny_Feel_Model_to_Pandas.ipynb) - These are the notebooks where we trained our word2vec models.
  
@@ -40,6 +28,18 @@
 [`WordClouds.ipynb`](Analysis/WordClouds.ipynb) - This notebook is where the Word Clouds were made.
 
 [`Score_pos_neg.ipynb`](Analysis/Score_pos_neg.ipynb) - This notebook ran linear regression with a good or bad rating decided by picking a score value as a cutoff for each.
+ ## Results
+ 
+ ## Execution
+ 
+ ## Conclusion
+ 
+ ## Sources
+ 
+ ## Authors
+ 
+ 
+
 
 Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
