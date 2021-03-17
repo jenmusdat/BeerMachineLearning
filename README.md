@@ -18,7 +18,7 @@
  
  ## Files
 
-[`Final Presentation`](Beer_Present_Final.pptx)
+[`Final Presentation`](Beer_Present_Final.pptx) - The final power point for the project.
 
  [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data, and perform the bulk of the ETL process.
  
@@ -59,9 +59,7 @@
 ![Cluster3](https://user-images.githubusercontent.com/71193081/111407092-96e5fe80-8690-11eb-8f4a-80464ab96ebc.png)
 ![Cluster4](https://user-images.githubusercontent.com/71193081/111407096-98afc200-8690-11eb-88ac-b618a557fe21.png)
 
- 
- ## Execution
- 
+
  ## Conclusion
  This is a much larger topic than anticipated. The results show that we can use Natural Language Processing to find some interesting information. Even though we spent a lot of time cleaning the data, there could still be more cleaning of the data. Additionally the constraints of the environment greatly impacted our ability to accomplish all we set out to accomplish. That being said it is really exciting when we are able to get results that are meaningful. 
  
