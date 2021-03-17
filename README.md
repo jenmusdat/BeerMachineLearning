@@ -31,6 +31,7 @@
 
 [`Score_pos_neg.ipynb`](Analysis/Score_pos_neg.ipynb) - This notebook ran linear regression with a good or bad rating decided by picking a score value as a cutoff for each.
  ## Results
+ ![2-d](https://user-images.githubusercontent.com/71193081/111407006-7158f500-8690-11eb-860d-37f8f0ae7fb0.png)
  
  ## Execution
  
