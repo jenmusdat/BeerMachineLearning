@@ -4,7 +4,9 @@
  
 ## Process:
 
- - We will use the text reviews to conduct a Word2Vec model analysis
+ - Exploratory analysis using Tableau, SQL, Jupyter Notebooks
+ - Use the text reviews to conduct a Word2Vec model analysis
+ - Use the results of the Word2Vec model in a more complex linear regression to look for any
  - We will then create a k-means cluster analysis based on the Word2Vec results that will cluster like beers and review results together.
  - Following this analysis we plan to examine the resulted clusters to glean meaning from the results
  - The cluster will then  be tied to score results
