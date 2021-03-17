@@ -4,17 +4,17 @@
  
 ## Process:
 
- - Exploratory analysis using Tableau, SQL, Jupyter Notebooks
- - Use the text reviews to conduct a Word2Vec model analysis
- - Use the results of the Word2Vec model in a more complex linear regression to look for any
- - We will then create a k-means cluster analysis based on the Word2Vec results that will cluster like beers and review results together.
- - Following this analysis we plan to examine the resulted clusters to glean meaning from the results
- - The cluster will then  be tied to score results
- - From there we will map the results and determine the next best steps
+ - Cursory exploratory analysis using Tableau (https://public.tableau.com/profile/jenny.kaylor#!/vizhome/Project3-Beer/Sheet4), SQL, Jupyter Notebooks
+ - Used the text reviews to conduct a Word2Vec model analysis
+ - Used the results of the Word2Vec model in a more complex linear regression to look for any connections between text reviews and scores
+ - Created a k-means cluster analysis based on the Word2Vec results that will cluster like beers and review results together
+ - Used the results of the clusters to create word clouds to discover any themes via the text within the clusters 
+ - Created a logistic regression model placing the score results into two categories "postive" and "negative"
+ - Each of the above required a great amount of srutinization and cleaning of the data
  
  ## Goal
  
- The goal of this project is to be able to predicts review ratings based on text reviews and provide feedback with regard brewery expansion.
+ The goal of this project is to be able to use the text in the reviews to determine what beers and beer qualities have the highest chance of scoring 5s in all categories.
  
  ## Files
  [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data, and perform the bulk of the ETL process.
@@ -35,14 +35,18 @@
  ## Execution
  
  ## Conclusion
+ This is a much larger topic than anticipated. The results show that we can use Natural Language Processing to find some interesting information. Even though we spent a lot of time cleaning the data, there could still be more cleaning of the data. Additionally the constraints of the environment greatly impacted our ability to accomplish all we set out to accomplish. That being said it is really exciting when we are able to get results that are meaningful. 
  
  ## Sources
+ https://www.kaggle.com/ehallmar/beers-breweries-and-beer-reviews
+
+3 Files:
+- beers.csv
+- breweries.csv
+- reviews.csv
  
  ## Authors
  
- 
-
-
 Made by [Erica](https://www.linkedin.com/in/ericafisher1), [Jenny](https://www.linkedin.com/in/jenny-kaylor-045aaba5/), [Josh](https://www.linkedin.com/in/josh-gonzalez-williams-7aa9a31b0/), [Jay](https://www.linkedin.com/in/jay-hastings-techy/) with :heart: in 2021.
  
  
