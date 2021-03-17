@@ -32,6 +32,31 @@
 [`Score_pos_neg.ipynb`](Analysis/Score_pos_neg.ipynb) - This notebook ran linear regression with a good or bad rating decided by picking a score value as a cutoff for each.
  ## Results
  
+ - Word2Vec
+
+
+![Dark](https://user-images.githubusercontent.com/71193081/111407102-9a798580-8690-11eb-8a69-e94eb59c7b0d.JPG)
+![hazy](https://user-images.githubusercontent.com/71193081/111407109-9c434900-8690-11eb-9b36-4b09eb23d2d0.JPG)
+![Irish](https://user-images.githubusercontent.com/71193081/111407116-9e0d0c80-8690-11eb-867e-717227e7f4d0.JPG)
+
+
+- K-mean Clusters
+
+
+![2-d](https://user-images.githubusercontent.com/71193081/111407006-7158f500-8690-11eb-860d-37f8f0ae7fb0.png)
+ ![3-d](https://user-images.githubusercontent.com/71193081/111407076-8fbef080-8690-11eb-9d8f-13799d30f120.png)
+ 
+ 
+ - Word Clouds
+ 
+ 
+![cluster0](https://user-images.githubusercontent.com/71193081/111407081-92214a80-8690-11eb-989b-270b78b21d5a.png)
+![Cluster1](https://user-images.githubusercontent.com/71193081/111407083-93527780-8690-11eb-82a5-ca34be14b537.png)
+![Cluster2](https://user-images.githubusercontent.com/71193081/111407088-951c3b00-8690-11eb-991b-62cc8c80e8ee.png)
+![Cluster3](https://user-images.githubusercontent.com/71193081/111407092-96e5fe80-8690-11eb-8f4a-80464ab96ebc.png)
+![Cluster4](https://user-images.githubusercontent.com/71193081/111407096-98afc200-8690-11eb-88ac-b618a557fe21.png)
+
+ 
  ## Execution
  
  ## Conclusion
