@@ -17,6 +17,9 @@
  The goal of this project is to be able to use the text in the reviews to determine what beers and beer qualities have the highest chance of scoring 5s in all categories.
  
  ## Files
+
+[`Final Presentation`](Beer_Present_Final.pptx)
+
  [`Jay-Beer-Data-Explore.ipynb`](Analysis/Jay-Beer-Data-Explore.ipynb), [`Jenny-Beer-Data-Explore.ipynb`](Analysis/Jenny-Beer-Data-Explore.ipynb) - These were the notebooks used to explore the data, and perform the bulk of the ETL process.
  
 [`Jay_word2vec.ipynb`](Analysis/Jay_word2vec.ipynb),[`training_smell.ipynb`](Analysis/training_smell.ipynb),[`Josh2vec.ipynb`](Analysis/Josh2vec.ipynb),[`Jenny_Feel_Model_to_Pandas.ipynb`](Analysis/Jenny_Feel_Model_to_Pandas.ipynb) - These are the notebooks where we trained our word2vec models.
